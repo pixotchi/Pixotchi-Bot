@@ -2,6 +2,13 @@
 
 A comprehensive Telegram bot for monitoring and reporting Pixotchi game activities and SEED token burn events on the Base blockchain network.
 
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-2CA5E0?logo=telegram&logoColor=white&style=flat-square)](https://core.telegram.org/bots)
+[![grammY](https://img.shields.io/badge/Framework-grammY-2B6CB0?style=flat-square)](https://grammy.dev)
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Runtime-Node.js-43853d?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
+[![date-fns](https://img.shields.io/badge/Utils-date--fns-00C7B7?style=flat-square)](https://date-fns.org/)
+[![Base Network](https://img.shields.io/badge/Base-Mainnet-0052FF?logo=coinbase&logoColor=white&style=flat-square)](https://www.base.org/)
+
 ## Overview
 
 This bot provides automated reporting capabilities for the Pixotchi ecosystem, delivering real-time activity reports and SEED token burn analytics directly to Telegram chats. It integrates with the Pixotchi GraphQL API and Base blockchain to provide accurate, timely information about game events and token economics.
@@ -314,3 +321,11 @@ The bot provides comprehensive logging including:
 ## Support
 
 For technical support or questions about the Pixotchi Telegram Bot, please refer to the project documentation or contact the development team through appropriate channels.
+
+## License
+Licensed under the MIT License. See the `LICENSE` file at the project root for details.
+
+---
+
+**Built with ❤️ for the Pixotchi community**
+
